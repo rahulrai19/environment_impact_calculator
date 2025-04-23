@@ -70,7 +70,7 @@ environment-impact-calculator/
 | Electricity            | 1 kWh ≈ 0.92 lbs CO₂             |
 | Car travel             | 1 km ≈ 0.21 kg CO₂               |
 | Short flight (<3 hrs)  | ≈ 250 kg CO₂ per flight          |
-| Beef meal              | ≈ 5.0 kg CO₂ per serving         |
+| non-veg meal           | ≈ 5.0 kg CO₂ per serving         |
 | Plastic bottle         | ≈ 0.08 kg CO₂ per bottle         |
 
 *(You can update values as per region or API)*
